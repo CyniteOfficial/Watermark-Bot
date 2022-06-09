@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @CyniteOfficial
 
 import os
 import shutil
