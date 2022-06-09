@@ -16,7 +16,7 @@ A Telegram Video Watermark Adder Bot by [@AbirHasan2005](https://github.com/Abir
 - Can Upload to [Streamtape](https://streamtape.com/) if File Size is more than 2GB.
 
 ### Bot Channel:
-<a href="https://t.me/CyniteBots"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/CyniteBots"><img src="https://img.shields.io/badge/Bot-Updates%20Channel-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
