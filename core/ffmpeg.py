@@ -8,8 +8,8 @@
 # Edit anything at your own risk!
 
 # Don't forget to help me if I done any mistake in the codes.
-# Support Group: @linux_repo 
-# Bots Channel: @Discovery_Updates
+# Support : @CyniteOfficial
+# Bots Channel: @CyniteBots
 
 import os
 import math
