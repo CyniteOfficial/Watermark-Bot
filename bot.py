@@ -8,7 +8,7 @@
 # Edit anything at your own risk!
 
 # Don't forget to help me if I done any mistake in the codes.
-# Support : @Teamx69
+# Support : @CyniteOfficial
 # Bots Channel: @CyniteBots
 
 
@@ -52,7 +52,7 @@ async def HelpWatermark(bot, cmd):
 	await cmd.reply_text(
 		text=Config.USAGE_WATERMARK_ADDER,
 		parse_mode="Markdown",
-		reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/Teamx69"), InlineKeyboardButton("Support", url="https://t.me/Teamx69")], [InlineKeyboardButton("Bots Channel", url="https://t.me/CyniteBots")], [InlineKeyboardButton("Youtube Channel", url="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ")]]),
+		reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/Cyniteofficial"), InlineKeyboardButton("Support", url="https://t.me/Teamx69")], [InlineKeyboardButton("Bots Channel", url="https://t.me/CyniteBots")], [InlineKeyboardButton("Youtube Channel", url="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ")]]),
 		disable_web_page_preview=True
 	)
 
@@ -418,7 +418,7 @@ async def button(bot, cmd: CallbackQuery):
 				return
 			except Exception:
 				await cmd.message.edit(
-					text="Something went Wrong. Contact my [Support](https://t.me/teamx69).",
+					text="Something went Wrong. Contact my [Support](https://t.me/Cyniteofficial).",
 					parse_mode="markdown",
 					disable_web_page_preview=True
 				)
@@ -426,7 +426,7 @@ async def button(bot, cmd: CallbackQuery):
 		await cmd.message.edit(
 			text=Config.USAGE_WATERMARK_ADDER,
 			parse_mode="Markdown",
-			reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/teamx69"), InlineKeyboardButton("Support Group", url="https://t.me/teamx69")], [InlineKeyboardButton("Bots Channel", url="https://t.me/Cynitebots")]]),
+			reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/Cyniteofficial"), InlineKeyboardButton("Support", url="https://t.me/CyniteofficiaL")], [InlineKeyboardButton("Bots Channel", url="https://t.me/Cynitebots")]]),
 			disable_web_page_preview=True
 		)
 
@@ -466,7 +466,7 @@ async def button(bot, cmd: CallbackQuery):
 				return
 			except Exception:
 				await cmd.message.edit(
-					text="Something went Wrong. Contact my [Support](https://t.me/teamx69).",
+					text="Something went Wrong. Contact my [Support](https://t.me/CyniteOfficial).",
 					parse_mode="markdown",
 					disable_web_page_preview=True
 				)
