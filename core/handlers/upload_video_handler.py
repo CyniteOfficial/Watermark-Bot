@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @CyniteOfficial
 
 import time
 from humanfriendly import format_timespan
@@ -19,9 +19,9 @@ async def send_video_handler(bot, cmd, output_vid, video_thumbnail, duration, wi
         height=height,
         reply_to_message_id=cmd.message_id,
         supports_streaming=True,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/teamx69")],
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/CyniteOfficial")],
                                            [InlineKeyboardButton("Bots Channel", url="https://t.me/cynitebots")],
-                                           [InlineKeyboardButton("Support", url="https://t.me/teamx69")]]),
+                                           [InlineKeyboardButton("Support", url="https://t.me/CyniteOfficial")]]),
         progress=progress_for_pyrogram,
         progress_args=(
             "Uploading, Wait Sir ...",
